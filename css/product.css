@@ -1,0 +1,54 @@
+body {
+    background-color: antiquewhite;
+    padding: 0px;
+    margin: 0px auto;
+}
+
+.container {
+    max-width: 300px;
+    padding: 0px;
+    margin: 0px auto;
+}
+
+.product {
+    margin-top: 6%;
+    background-color: white;
+    padding: 15px;
+}
+
+.product img {
+    width: 296px;
+}
+
+.p1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 16px;
+    text-align: center;
+    text-align: center;
+    color: #000000;
+}
+
+.p2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 26px;
+    text-align: center;
+    line-height: 16px;
+    align-items: center;
+    color: #F80202;
+}
+
+.p3 {
+    display: block;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 26px;
+    line-height: 16px;
+    text-align: center;
+    align-items: center;
+    color: black;
+}

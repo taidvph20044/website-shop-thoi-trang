@@ -1,0 +1,111 @@
+body {
+    background-color: white;
+}
+
+.container {
+    width: 1000px;
+    padding: 0px;
+    margin: 0px auto;
+}
+
+.flex {
+    margin-top: 5%;
+    display: flex;
+}
+
+.left {
+    width: 50%;
+    height: 400px;
+}
+
+.right {
+    width: 50%;
+    height: 400px;
+}
+
+.dangnhap {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 40px;
+}
+
+.left span {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.left input {
+    margin-top: 10px;
+    box-sizing: border-box;
+    width: 384px;
+    height: 38px;
+    background: #FEFDFD;
+    border: 1px solid #000000;
+    border-radius: 7px;
+}
+
+.tt-1 {
+    gap: 70px;
+    margin-left: 20px;
+    display: flex;
+    margin-top: 10px;
+}
+
+.tt-2 {
+    gap: 13px;
+    display: flex;
+}
+
+.tt-2 input {
+    margin-top: 10px;
+    box-sizing: border-box;
+    width: 120px;
+    height: 38px;
+    background: #FEFDFD;
+    border: 1px solid #000000;
+    border-radius: 7px;
+}
+
+.hr {
+    background-color: gray;
+    width: 1px;
+    height: 700px;
+}
+
+.thanhtoan {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    gap: 10px;
+    margin-left: 10%;
+    display: flex;
+    align-items: center;
+}
+
+.right img {
+    width: 50px;
+    height: 38px;
+}
+
+.right div {
+    margin-left: 12%;
+}
+
+.thanhtoan img {
+    width: 19px;
+    height: 19px;
+}
